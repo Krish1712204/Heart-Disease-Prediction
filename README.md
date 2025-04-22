@@ -27,7 +27,7 @@ This project is a web-based application built using **Streamlit** that classifie
 1. Clone the repository:
 
 ```bash
-git clone "https://github.com/gokulraktate/Heart-Disease-Prediction.git"
+git clone "https://github.com/Krish1712204/Heart-Disease-Prediction.git"
 ```
 
 2. Navigate to the project directory:
@@ -133,4 +133,4 @@ This project is licensed under the MIT License.
 Upvote, Share and follow for more⬆️⬆️⬆️🔝.
 
 
-Made with ❤️ by Gokul
+Made with ❤️ by Krishna
