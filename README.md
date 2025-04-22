@@ -1,6 +1,6 @@
 # Heart Disease Classification Web App 🩺
 
-![heart Disease](https://github.com/user-attachments/assets/ec467e06-a893-4ad6-8339-c152f5dbb01a)
+![heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscitechdaily.com%2Fai-accurately-predicts-risk-of-death-in-patients-with-suspected-or-known-heart-disease%2F&psig=AOvVaw2B92TGs-rRH9R6OKrXgl8c&ust=1745385451219000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjN5t3x6owDFQAAAAAdAAAAABAE)
 
 
 This project is a web-based application built using **Streamlit** that classifies the likelihood of heart disease based on medical parameters. It takes user inputs such as age, cholesterol levels, chest pain type, and other health indicators to predict whether the person is likely to have heart disease or not.
